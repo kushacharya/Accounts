@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Hisab</string>
+    <string name="enter_total_amount">Enter total Amount</string>
+    <string name="welcome_to_my_hisab_app">Welcome to my Hisab App</string>
+    <string name="enter_total_person">Enter total person</string>
+    <string name="average">Average</string>
+    <string name="enter_the_name_of_person">Enter the name of person</string>
+</resources>
