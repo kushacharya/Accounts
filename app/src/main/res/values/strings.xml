@@ -5,4 +5,6 @@
     <string name="enter_total_person">Enter total person</string>
     <string name="average">Average</string>
     <string name="enter_the_name_of_person">Enter the name of person</string>
+    <string name="enter_the_contribution">Enter the contribution</string>
+    <string name="submit">submit</string>
 </resources>
